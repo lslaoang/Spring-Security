@@ -13,14 +13,12 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>security</name>
     <description>security</description>
+
     <properties>
         <java.version>1.8</java.version>
         <web.version>2.7.3</web.version>
         <starter.version>2.7.3</starter.version>
     </properties>
-
-
-
 
     <dependencies>
 <!--        <dependency>-->
