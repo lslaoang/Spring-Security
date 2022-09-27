@@ -6,7 +6,7 @@
         <groupId>com.lao.spring</groupId>
         <artifactId>spring-security</artifactId>
         <version>1.0-SNAPSHOT</version>
-        <relativePath/> <!-- lookup parent from repository -->
+        <relativePath>../pom.xml</relativePath> <!-- lookup parent from repository -->
     </parent>
 
     <groupId>com.springcode</groupId>
@@ -68,10 +68,6 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
-
-    <modules>
-        <module>security</module>
-    </modules>
 
     <build>
         <plugins>
