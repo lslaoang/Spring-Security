@@ -22,5 +22,6 @@
 
     <modules>
         <module>security</module>
+        <module>view-display</module>
     </modules>
 </project>
