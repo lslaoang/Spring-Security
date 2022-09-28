@@ -12,8 +12,8 @@
     <groupId>com.springcode</groupId>
     <artifactId>security</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>security</name>
-    <description>security</description>
+    <name>Security</name>
+    <description>Security gateway of the application</description>
 
     <properties>
         <java.version>1.8</java.version>

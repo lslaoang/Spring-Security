@@ -11,8 +11,8 @@
 
     <artifactId>view-display</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>view-display</name>
-    <description>view-display</description>
+    <name>View and Display</name>
+    <description>Provide interactive web pages</description>
     <properties>
         <java.version>1.8</java.version>
     </properties>
