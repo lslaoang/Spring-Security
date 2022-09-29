@@ -24,4 +24,39 @@
         <module>security</module>
         <module>view-display</module>
     </modules>
+
+    <build>
+            <plugins>
+                <plugin>
+                    <groupId>org.springframework.boot</groupId>
+                    <artifactId>spring-boot-maven-plugin</artifactId>
+                </plugin>
+
+                <plugin>
+                    <groupId>org.apache.maven.plugins</groupId>
+                    <artifactId>maven-release-plugin</artifactId>
+                    <version>2.5.3</version>
+                    <configuration>
+                        <goals>install</goals>
+                        <autoVersionSubmodules>true</autoVersionSubmodules>
+                        <tagNameFormat>v@{project.version}</tagNameFormat>
+                    </configuration>
+                </plugin>
+
+            </plugins>
+    </build>
+
+    <scm>
+        <developerConnection>scm:git:git@github.com/lslaoang/Spring-Security.git</developerConnection>
+        <tag>HEAD</tag>
+    </scm>
+
+    <distributionManagement>
+        <repository>
+            <id>com.springcode</id>
+            <name>Spring-Security</name>
+            <url>https://github.com/lslaoang/Spring-Security</url>
+<!--            <url>scm:git:git@github.com/lslaoang/Spring-Security</url>-->
+        </repository>
+    </distributionManagement>
 </project>
