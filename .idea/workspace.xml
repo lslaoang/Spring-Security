@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6ae1c156-d25d-4ceb-9bac-59f9ddf27cad" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +57,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -117,7 +116,7 @@
       <workItem from="1664239409958" duration="3320000" />
       <workItem from="1664330194294" duration="1114000" />
       <workItem from="1664415361958" duration="1171000" />
-      <workItem from="1664416695135" duration="1566000" />
+      <workItem from="1664416695135" duration="1967000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1663814192539</created>
@@ -224,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664416490126</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="add release plugins">
+      <created>1664418307247</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1664418307247</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -260,7 +266,8 @@
     <MESSAGE value="add profile properties" />
     <MESSAGE value="add supporting files" />
     <MESSAGE value="refactor group name and pacakges" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor group name and pacakges" />
+    <MESSAGE value="add release plugins" />
+    <option name="LAST_COMMIT_MESSAGE" value="add release plugins" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>

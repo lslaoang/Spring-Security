@@ -53,8 +53,8 @@
 
     <distributionManagement>
         <repository>
-            <id>com.springcode</id>
-            <name>Spring-Security</name>
+            <id>github</id>
+            <name>Github</name>
             <url>https://github.com/lslaoang/Spring-Security</url>
 <!--            <url>scm:git:git@github.com/lslaoang/Spring-Security</url>-->
         </repository>
