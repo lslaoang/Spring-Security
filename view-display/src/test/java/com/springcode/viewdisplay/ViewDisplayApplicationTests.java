@@ -1,4 +1,4 @@
-package com.lao.spring.viewdisplay;
+package com.springcode.viewdisplay;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ae1c156-d25d-4ceb-9bac-59f9ddf27cad" name="Changes" comment="" />
+    <list default="true" id="6ae1c156-d25d-4ceb-9bac-59f9ddf27cad" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/security/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/security/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view-display/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/view-display/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view-display/src/main/java/com/lao/spring/viewdisplay/ViewDisplayApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/view-display/src/main/java/com/springcode/viewdisplay/ViewDisplayApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view-display/src/test/java/com/lao/spring/viewdisplay/ViewDisplayApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/view-display/src/test/java/com/springcode/viewdisplay/ViewDisplayApplicationTests.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +43,8 @@
   </component>
   <component name="ProjectId" id="2F6YSNxXL7NjFI3dpZy3zgz0mqO" />
   <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -85,7 +94,8 @@
     </configuration>
     <configuration name="ViewDisplayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="view-display" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lao.spring.viewdisplay.ViewDisplayApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springcode.viewdisplay.ViewDisplayApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -108,6 +118,7 @@
       <workItem from="1664239015029" duration="303000" />
       <workItem from="1664239409958" duration="3320000" />
       <workItem from="1664330194294" duration="1114000" />
+      <workItem from="1664415361958" duration="1040000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1663814192539</created>
@@ -200,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664331316866</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="add supporting files">
+      <created>1664415544297</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1664415544297</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,7 +252,8 @@
     <MESSAGE value="refactor maven hierarchy" />
     <MESSAGE value="update module name" />
     <MESSAGE value="add profile properties" />
-    <option name="LAST_COMMIT_MESSAGE" value="add profile properties" />
+    <MESSAGE value="add supporting files" />
+    <option name="LAST_COMMIT_MESSAGE" value="add supporting files" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>

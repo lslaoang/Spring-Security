@@ -10,7 +10,7 @@
         <version>2.7.3</version>
     </parent>
 
-    <groupId>com.lao.spring</groupId>
+    <groupId>com.springcode</groupId>
     <artifactId>spring-security</artifactId>
     <name>Spring Security</name>
     <version>1.0-SNAPSHOT</version>
