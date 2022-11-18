@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ae1c156-d25d-4ceb-9bac-59f9ddf27cad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/security/src/main/java/com/springcode/security/configuration/WebAppSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/security/src/main/java/com/springcode/security/controller/SecurityController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/security/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/security/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,10 +20,16 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="OpenAPI" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -49,6 +59,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="16" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -79,7 +90,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ViewDisplayApplication">
+  <component name="RunManager" selected="Spring Boot.SecurityApplication">
     <configuration name="SecurityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="security" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.springcode.security.SecurityApplication" />
@@ -117,6 +128,9 @@
       <workItem from="1664330194294" duration="1114000" />
       <workItem from="1664415361958" duration="1171000" />
       <workItem from="1664416695135" duration="1967000" />
+      <workItem from="1664419499760" duration="863000" />
+      <workItem from="1664433698834" duration="65000" />
+      <workItem from="1668773275128" duration="2092000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1663814192539</created>
@@ -230,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664418307247</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="change remote repo ID">
+      <created>1664419646301</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1664419646301</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -267,7 +288,8 @@
     <MESSAGE value="add supporting files" />
     <MESSAGE value="refactor group name and pacakges" />
     <MESSAGE value="add release plugins" />
-    <option name="LAST_COMMIT_MESSAGE" value="add release plugins" />
+    <MESSAGE value="change remote repo ID" />
+    <option name="LAST_COMMIT_MESSAGE" value="change remote repo ID" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
