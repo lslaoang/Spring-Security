@@ -1,10 +1,10 @@
-package com.springcode.security;
+package display;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SecurityApplicationTests {
+class ViewDisplayApplicationTests {
 
     @Test
     void contextLoads() {

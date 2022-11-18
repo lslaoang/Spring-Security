@@ -1,13 +1,13 @@
-package com.springcode.security;
+package display;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SecurityApplication {
+public class ViewDisplayApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SecurityApplication.class, args);
+        SpringApplication.run(ViewDisplayApplication.class, args);
     }
 
 }

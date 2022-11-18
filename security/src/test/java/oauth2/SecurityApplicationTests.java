@@ -1,10 +1,10 @@
-package com.springcode.viewdisplay;
+package oauth2;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ViewDisplayApplicationTests {
+class SecurityApplicationTests {
 
     @Test
     void contextLoads() {
