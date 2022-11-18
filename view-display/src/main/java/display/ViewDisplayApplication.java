@@ -1,4 +1,4 @@
-package com.springcode.viewdisplay;
+package display;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
